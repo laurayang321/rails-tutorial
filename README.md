@@ -17,7 +17,8 @@ http://www.youtube.com/user/c9ide.
 Happy coding!
 The Cloud9 IDE team
 
-
+------------------------------
+This is on git master branch!
 
 # Ruby on Rails Tutorial
 
