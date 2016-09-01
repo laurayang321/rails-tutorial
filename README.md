@@ -14,10 +14,11 @@ This Cloud9 system is designed to be used with the [Ruby on Rails Tutorial](http
 For more information on how to use Cloud9, visit http://docs.c9.io for our documentation. If you want, you can also go watch some training videos at
 http://www.youtube.com/user/c9ide.
 
-Happy coding!
+Happy coding! 
 The Cloud9 IDE team
 
-
+---------------------------------------------------------------
+This is branch merge-exercise-README
 
 # Ruby on Rails Tutorial
 
