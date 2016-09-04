@@ -17,8 +17,13 @@ http://www.youtube.com/user/c9ide.
 Happy coding! 
 The Cloud9 IDE team
 
+<<<<<<< HEAD
 ---------------------------------------------------------------
 This is branch merge-exercise-README
+=======
+------------------------------
+This is on git master branch!
+>>>>>>> master
 
 # Ruby on Rails Tutorial
 
